@@ -1,0 +1,13 @@
+/cover.out
+/node_modules/
+/package.json
+/public/styles/app.css
+/tailwindcss
+DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+/pb_migrations
+

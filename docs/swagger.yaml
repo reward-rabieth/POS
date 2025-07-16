@@ -1,0 +1,10 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    name: Rustacean
+  description: Modern POS built with PocketBase, Gomponents, HTMX
+  title: POS System API
+  version: "1.0"
+paths: {}
+swagger: "2.0"

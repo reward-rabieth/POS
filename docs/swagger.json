@@ -1,0 +1,14 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Modern POS built with PocketBase, Gomponents, HTMX",
+        "title": "POS System API",
+        "contact": {
+            "name": "Rustacean"
+        },
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/",
+    "paths": {}
+}
