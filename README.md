@@ -1,4 +1,4 @@
-# 🍽️ Point od Sale(POS) SYSTEM
+# 🍽️ Point of Sale(POS) SYSTEM
 
 A modern, lightweight Point of Sale (POS) system built using:
 
