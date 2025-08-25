@@ -9,7 +9,7 @@ require (
 	github.com/swaggo/swag v1.16.4
 	golang.org/x/sync v0.16.0
 	maragu.dev/env v0.2.0
-	maragu.dev/gomponents v1.1.0
+	maragu.dev/gomponents v1.2.0
 	maragu.dev/httph v0.3.7
 )
 
