@@ -1,13 +1,13 @@
 module github.com/rustacean-dev/possystem
 
-go 1.24
+go 1.24.0
 
 require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/go-chi/chi/v5 v5.2.2
 	github.com/swaggo/http-swagger v1.3.4
 	github.com/swaggo/swag v1.16.4
-	golang.org/x/sync v0.16.0
+	golang.org/x/sync v0.18.0
 	maragu.dev/env v0.2.0
 	maragu.dev/gomponents v1.1.0
 	maragu.dev/httph v0.3.7
